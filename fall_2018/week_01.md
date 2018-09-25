@@ -1,5 +1,7 @@
 ## Last Week's Accomplishments
 
+Did codecademy tutorial for ReactJS to familiarize a bit.
+
 > In this section, you can write about what you accomplished in the previous week.
 
 > Examples:
@@ -7,11 +9,15 @@
 
 ## This Week's Plan
 
+Do the official tutorial for React to familiarize
+
 > In this section, you can write about what you have planned for next week.
 
 > Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
+
+No, things seem straightforward
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
