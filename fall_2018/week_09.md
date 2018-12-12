@@ -1,13 +1,13 @@
 ## Last Week's Accomplishments
 
-I was assigneed the looping exercises after the last smallgroup meeting so i have been looking at different examples and exercises to see what works and what doesn't. I don't want to create an exercise that seems like it's just copy paste so I've been looking at how to make a more intuitive exercise.
+Finished the looping exercise. Not sure if it's the best for the kids, because like I said I don't want it to be copy paste, however, I think it is helpful enough and will be able to be used as a capable learning tool.
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-Start programming the lecture exercises.
+Finalize all documentation and figure out what to commit, so that it can be continued next year. Also meet with the rest of the curriculum team to make sure that we have everything set for anybody joining ht project next semester.
 
 > In this section, you can write about what you have planned for next week.
 
@@ -15,7 +15,7 @@ Start programming the lecture exercises.
 
 ## Anything Blocking?
 
-Figuring out how to make my exercise a proper learning tool rather than copypasta.
+Finding time to meet will be a bit difficult. We will probably just meet in small group since the group is so big. Hopefully we finish everything.
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
@@ -25,3 +25,4 @@ Figuring out how to make my exercise a proper learning tool rather than copypast
 Went to large group last week but missed the code for RPISEC
 
 > This is an optional section for any sort of information that does not fall under any of the other categories.
+

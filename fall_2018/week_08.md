@@ -1,13 +1,14 @@
 ## Last Week's Accomplishments
 
-I was assigneed the looping exercises after the last smallgroup meeting so i have been looking at different examples and exercises to see what works and what doesn't. I don't want to create an exercise that seems like it's just copy paste so I've been looking at how to make a more intuitive exercise.
+This week I started programming the lecture exercises. I had a slight issue as I don't really use npm or anything like that and had to figure that out. About halfway done. I think my logic is correct but I will ask the mentors. Also we are preparing for our presentaion in the upcoming weeks.
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-Start programming the lecture exercises.
+Finish programming the lecture exercises.
+Start preparing for presentation, finish slides and make sure that I have my contributions documented and ready to present.
 
 > In this section, you can write about what you have planned for next week.
 
@@ -15,7 +16,7 @@ Start programming the lecture exercises.
 
 ## Anything Blocking?
 
-Figuring out how to make my exercise a proper learning tool rather than copypasta.
+No, all my questions I can either Google or ask my mentor.
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
